@@ -1,4 +1,4 @@
-<h1> Hi 👋 I’m Sebastian.</h1>
+<h1> Hi 👋 I’m Sebastian,</h1>
 <h4>I live in Poland near the city of Krakow.</h4>
 <h3> 📚 Technologies in which I work: </h3>
 <p>
