@@ -15,13 +15,13 @@
 <h4>👁‍🗨 I am looking for a job as a junior front-end developer or junior full-stack.</h4>
 <p>🌱 I’m currently learning THREE.JS library, because i think that 3D UI's are cool. Anyway i have lot of fun with it ❤️</p>
 <h3>My <img src="react.svg" height="40px" width="auto"/> projects finished or nearly finshed: </h3>
-<p>TODO-LIST: <a href="https://sebmiet.github.io/todo-list-react/">LiveDemo</a> <a href="https://github.com/sebmiet/todo-list-react/">Github Repo</a> </p>
-<p>CALCULATOR: <a href="https://sebmiet.github.io/calculator-react/">LiveDemo</a> <a href="https://sebmiet.github.io/calculator-react/">Github Repo</a> </p>
-<p>MEMORY-GAME: LiveDemo(soon) <a href="https://sebmiet.github.io/calculator-react/">Github Repo</a> </p>
+<p>TODO-LIST: <a href="https://sebmiet.github.io/todo-list-react/">LiveDemo</a> <a href="https://github.com/sebmiet/todo-list-react/">Github-repo</a> </p>
+<p>CALCULATOR: <a href="https://sebmiet.github.io/calculator-react/">LiveDemo</a> <a href="https://github.com/sebmiet/calculator-react/">Github-repo</a> </p>
+<p>MEMORY-GAME: LiveDemo(soon) <a href="https://github.com/sebmiet/memory-react/">Github-repo</a> </p>
 
 <h3>My <img src="javascript.svg" height="40px" width="auto"/> projects finished or nearly finshed: </h3>
-<p>HOTEL-ROOM(THREE.js): <a href="https://sebmiet.github.io/skybox-room/">LiveDemo</a> <a href="https://sebmiet.github.io/skybox-room/">Github Repo</a> </p>
-<p>SKYBOX(THREE.js): <a href="https://sebmiet.github.io/skybox/">LiveDemo</a> <a href="https://sebmiet.github.io/skybox/">Github Repo</a> </p>
+<p>HOTEL-ROOM(THREE.js): <a href="https://sebmiet.github.io/skybox-room/">LiveDemo</a> <a href="https://github.com/sebmiet/skybox-room/">Github-repo</a> </p>
+<p>SKYBOX(THREE.js): <a href="https://sebmiet.github.io/skybox/">LiveDemo</a> <a href="https://github.com/sebmiet/skybox/">Github-repo</a> </p>
 
 <h3>📧 if you would like to contact me...</h3>
 <p>
